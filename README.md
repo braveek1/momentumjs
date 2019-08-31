@@ -1,2 +1,2 @@
 # momentumjs
-Todo application
+Todo application made with VanillaJS
